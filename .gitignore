@@ -1,3 +1,7 @@
-*
-!Assets
-!.gitignore
+.vscode
+Logs
+Assembly-CSharp.csproj
+pnw-u.sln
+Library
+Temp
+ProjectSettings
